@@ -1,0 +1,5 @@
+venv/
+data/*.xlsx
+data/lmia_combined_clean.csv
+__pycache__/
+.DS_Store

@@ -3,3 +3,6 @@ data/*.xlsx
 data/lmia_combined_clean.csv
 __pycache__/
 .DS_Store
+data/wages_2024.csv
+data/wages_2025.csv
+data/wages_cleaned.csv

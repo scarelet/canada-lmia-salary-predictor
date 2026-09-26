@@ -88,3 +88,14 @@ canada-lmia-salary-predictor/
 - No wage data is included in this dataset; a natural extension would be joining Job Bank's public wage report data by occupation/province to add salary prediction
 - The classifier's features are all macro-level; adding employer size, application history depth, or NAICS industry codes could improve predictive power
 - Employer name matching isn't deduplicated (e.g. minor name variations for the same company may be treated as distinct)
+
+
+## Data Sources
+
+- Employment and Social Development Canada. *Temporary Foreign Worker Program (TFWP): Positive Labour Market Impact Assessment (LMIA) Employers List*. Open Government Portal. https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97
+
+- Employment and Social Development Canada. *Temporary Foreign Worker Program (TFWP): Negative Labour Market Impact Assessment (LMIA) Employers List*. Open Government Portal. https://open.canada.ca/data/en/dataset/f82f66f2-a22b-4511-bccf-e1d74db39ae5
+
+- Employment and Social Development Canada / Job Bank. *Wage Report Data (2024, 2025)*. Open Government Portal. https://open.canada.ca/data/en/dataset/adad580f-76b0-4502-bd05-20c125de9116
+
+All data is published under the [Open Government Licence, Canada](https://open.canada.ca/en/open-government-licence-canada).

@@ -6,3 +6,6 @@ __pycache__/
 data/wages_2024.csv
 data/wages_2025.csv
 data/wages_cleaned.csv
+data/raw_csv/
+data/*.parquet
+spark-warehouse/
